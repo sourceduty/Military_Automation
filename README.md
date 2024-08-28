@@ -17,6 +17,12 @@ The tone of Military Automation is authoritative yet approachable, maintaining p
 ### Related Links
 
 [CHatGPT](https://github.com/sourceduty/chatgpt)
+<br>
+[Military Programmer](https://github.com/sourceduty/Military_Programmer)
+<br>
+[Military Product](https://github.com/sourceduty/Military_Product)
+<br>
+[Military Overlord](https://github.com/sourceduty/Military_Overlord)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
