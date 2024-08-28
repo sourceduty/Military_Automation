@@ -66,6 +66,8 @@ The advancement of robotic process automation (RPA) further illustrates the impa
 [Semaphore SIgn](https://github.com/sourceduty/Semaphore_Sign)
 <br>
 [IoT Hacker](https://github.com/sourceduty/IoT_Hacker)
+<br>
+[Military Chemistry](https://github.com/sourceduty/Military_Chemistry)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
