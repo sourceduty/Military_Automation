@@ -1,4 +1,4 @@
-![Military Automation](https://github.com/user-attachments/assets/c871e90d-d818-4c50-8831-a1aa1706a11c)
+![Military Automation](https://github.com/user-attachments/assets/9e97e020-b03c-4198-99d7-c7892a1e1ceb)
 
 > Military command automation program assistant.
 
