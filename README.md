@@ -53,7 +53,7 @@ The advancement of robotic process automation (RPA) further illustrates the impa
 #
 ### Related Links
 
-[CHatGPT](https://github.com/sourceduty/chatgpt)
+[ChatGPT](https://github.com/sourceduty/chatgpt)
 <br>
 [Military Programmer](https://github.com/sourceduty/Military_Programmer)
 <br>
