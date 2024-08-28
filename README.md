@@ -62,6 +62,10 @@ The advancement of robotic process automation (RPA) further illustrates the impa
 [Military Overlord](https://github.com/sourceduty/Military_Overlord)
 <br>
 [Guns](https://github.com/sourceduty/Guns)
+<br>
+[Semaphore SIgn](https://github.com/sourceduty/Semaphore_Sign)
+<br>
+[IoT Hacker](https://github.com/sourceduty/IoT_Hacker)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
