@@ -68,6 +68,8 @@ The advancement of robotic process automation (RPA) further illustrates the impa
 [IoT Hacker](https://github.com/sourceduty/IoT_Hacker)
 <br>
 [Military Chemistry](https://github.com/sourceduty/Military_Chemistry)
+<br>
+[Military Programmer](https://github.com/sourceduty/Military_Programmer)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
