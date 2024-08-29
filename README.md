@@ -100,6 +100,8 @@ Despite these challenges, the development of military humanoid automation contin
 [Boats](https://github.com/sourceduty/Boats)
 <br>
 [Military Intelligence](https://github.com/sourceduty/Military_Intelligence)
+<br>
+[Military Operations](https://github.com/sourceduty/Military_Operations)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
