@@ -90,6 +90,10 @@ Despite these challenges, the development of military humanoid automation contin
 [Military Chemistry](https://github.com/sourceduty/Military_Chemistry)
 <br>
 [Military Programmer](https://github.com/sourceduty/Military_Programmer)
+<br>
+[Airplane Design](https://github.com/sourceduty/Airplane_Design)
+<br>
+[Vehicle Design](https://github.com/sourceduty/Vehicle_Design)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
