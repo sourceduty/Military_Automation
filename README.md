@@ -51,7 +51,7 @@ In addition to autonomous systems, programming plays a crucial role in optimizin
 The advancement of robotic process automation (RPA) further illustrates the impact of programming on military logistics and operations. RPA systems automate repetitive and time-consuming tasks, such as inventory management and maintenance scheduling, allowing personnel to focus on more strategic activities. Additionally, automated battlefield medical systems and robotic exoskeletons enhance the support provided to soldiers, improving their capabilities and reducing the burden of physical tasks. As technology continues to evolve, the role of military programming and automation will expand, driving innovations that enhance operational efficiency, safety, and effectiveness across various domains of defense.
 
 #
-### Military Vehicles
+### Military Vehicle Automation
 
 ![Automated](https://github.com/user-attachments/assets/bca8025d-6085-47b2-8754-a5df086aa790)
 
