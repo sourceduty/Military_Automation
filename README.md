@@ -60,7 +60,7 @@ Automated military vehicles, also known as autonomous or unmanned vehicles, repr
 The deployment of automated military vehicles has revolutionized the battlefield by providing real-time data and reducing the decision-making time for military commanders. For instance, drones can be deployed for aerial surveillance, providing high-resolution images and videos, which are critical for intelligence gathering. These vehicles can also be used for targeted strikes, where precision is paramount. On the ground, UGVs can navigate challenging terrains, disarm explosives, or transport supplies, all while minimizing the exposure of human soldiers to harm. The ability to operate these vehicles remotely or autonomously ensures that military operations can be conducted with greater agility and adaptability.
 
 #
-### Miltiarized Humanoids
+### Militarized Humanoids
 
 ![Army Humanoid Concept](https://github.com/user-attachments/assets/f9edbf71-c7c2-413e-bce3-8604581f8cfc)
 
