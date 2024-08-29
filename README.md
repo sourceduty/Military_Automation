@@ -94,6 +94,10 @@ Despite these challenges, the development of military humanoid automation contin
 [Airplane Design](https://github.com/sourceduty/Airplane_Design)
 <br>
 [Vehicle Design](https://github.com/sourceduty/Vehicle_Design)
+<br>
+[Trains](https://github.com/sourceduty/Trains)
+<br>
+[Boats](https://github.com/sourceduty/Boats)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
