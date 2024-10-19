@@ -86,8 +86,6 @@ The use of this Military Automation GPT for programming, developing, or implemen
 <br>
 [Military Programmer](https://github.com/sourceduty/Military_Programmer)
 <br>
-[Military Product](https://github.com/sourceduty/Military_Product)
-<br>
 [Military Overlord](https://github.com/sourceduty/Military_Overlord)
 <br>
 [Guns](https://github.com/sourceduty/Guns)
