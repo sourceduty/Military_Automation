@@ -109,6 +109,8 @@ The use of this Military Automation GPT for programming, developing, or implemen
 [Military Intelligence](https://github.com/sourceduty/Military_Intelligence)
 <br>
 [Military Operations](https://github.com/sourceduty/Military_Operations)
+<br>
+[Private Military](https://github.com/sourceduty/Private_Military)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
